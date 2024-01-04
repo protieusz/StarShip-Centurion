@@ -1,0 +1,96 @@
+{
+    "keyboard_name": "sscenturion",
+    "manufacturer": "protieuskeebs",
+    "url": "https://instagram.com/protieuskeebs/",
+    "maintainer": "protieus",
+    "usb": {
+        "vid": "0xFEED",
+        "pid": "0x0000",
+        "device_version": "1.0.0"
+    },
+    "processor": "RP2040",
+    "bootloader": "rp2040",
+    "processor_type": "arm",
+    "protocol": "ChibiOS",
+    "debounce": 5,
+    "matrix_pins": {
+        "rows": ["GP8", "GP9", "GP10", "GP11"],
+        "cols": ["GP24", "GP23", "GP22", "GP21", "GP20", "GP0", "GP7", "GP3", "GP2", "GP1", "GP12"]
+    },
+    "matrix_size": {
+        "cols": 11,
+        "rows": 4
+    },
+    //"encoder": {
+        //"rotary": [
+            //{ "pin_a": "GP4", "pin_b": "GP5", "resolution": 4}
+        //]
+    //},
+    "diode_direction": "COL2ROW",
+    "features": {
+        "bootmagic": true,
+        "mousekey": true,
+        "extrakey": true,
+        "encoder": false,
+        "rgblight": true
+    },
+
+    //"rgblight": {
+        //"pin": "GP10",
+        //"led_count": 6,
+        //"hue_steps": 8,
+        //"saturation_steps": 8,
+        //"brightness_steps": 8,
+        //"max_brightness": 255,
+        //"sleep": false,
+        //"animations": {
+            //"all": true
+        //}
+    //},
+
+ "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"label": "K000", "matrix": [0, 0], "x": 0, "y": 0},
+                {"label": "K001", "matrix": [0, 1], "x": 1, "y": 0},
+                {"label": "K002", "matrix": [0, 2], "x": 2, "y": 0},
+                {"label": "K003", "matrix": [0, 3], "x": 3, "y": 0},
+                {"label": "K004", "matrix": [0, 4], "x": 4, "y": 0},
+                {"label": "K005", "matrix": [0, 5], "x": 5, "y": 0},
+                {"label": "K006", "matrix": [0, 6], "x": 6, "y": 0},
+                {"label": "K007", "matrix": [0, 7], "x": 7, "y": 0},
+                {"label": "K008", "matrix": [0, 8], "x": 8, "y": 0},
+                {"label": "K009", "matrix": [0, 9], "x": 9, "y": 0},
+                {"label": "K010", "matrix": [0, 10], "x": 10, "y": 0},
+                {"label": "K100", "matrix": [1, 0], "x": 11, "y": 0},
+                {"label": "K101", "matrix": [1, 1], "x": 12, "y": 0},
+                {"label": "K102", "matrix": [1, 2], "x": 13, "y": 0},
+                {"label": "K103", "matrix": [1, 3], "x": 14, "y": 0},
+                {"label": "K104", "matrix": [1, 4], "x": 15, "y": 0},
+                {"label": "K105", "matrix": [1, 5], "x": 16, "y": 0},
+                {"label": "K106", "matrix": [1, 6], "x": 17, "y": 0},
+                {"label": "K107", "matrix": [1, 7], "x": 18, "y": 0},
+                {"label": "K108", "matrix": [1, 8], "x": 19, "y": 0},
+                {"label": "K109", "matrix": [1, 9], "x": 20, "y": 0},
+                {"label": "K110", "matrix": [1, 10], "x": 21, "y": 0},
+                {"label": "K200", "matrix": [2, 0], "x": 22, "y": 0},
+                {"label": "K201", "matrix": [2, 1], "x": 23, "y": 0},
+                {"label": "K202", "matrix": [2, 2], "x": 24, "y": 0},
+                {"label": "K203", "matrix": [2, 3], "x": 25, "y": 0},
+                {"label": "K204", "matrix": [2, 4], "x": 26, "y": 0},
+                {"label": "K205", "matrix": [2, 5], "x": 27, "y": 0},
+                {"label": "K206", "matrix": [2, 6], "x": 28, "y": 0},
+                {"label": "K207", "matrix": [2, 7], "x": 29, "y": 0},
+                {"label": "K208", "matrix": [2, 8], "x": 30, "y": 0},
+                {"label": "K209", "matrix": [2, 9], "x": 31, "y": 0},
+                {"label": "K210", "matrix": [2, 10], "x": 32, "y": 0},
+                {"label": "K302", "matrix": [3, 2], "x": 33, "y": 0},
+                {"label": "K303", "matrix": [3, 3], "x": 34, "y": 0},
+                {"label": "K304", "matrix": [3, 4], "x": 35, "y": 0},
+                {"label": "K306", "matrix": [3, 6], "x": 36, "y": 0},
+                {"label": "K307", "matrix": [3, 7], "x": 37, "y": 0},
+                {"label": "K308", "matrix": [3, 8], "x": 38, "y": 0}
+            ]
+        }
+    }
+}

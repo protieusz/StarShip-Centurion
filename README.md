@@ -88,6 +88,9 @@ Switch Plate:
 ![IMG_0830](https://github.com/protieusz/StarShip-Centurion/assets/118025702/f9853fac-51af-4cea-8495-ee1a83acb2df)
 ![IMG_0829](https://github.com/protieusz/StarShip-Centurion/assets/118025702/10eeefb9-7338-4f4a-8cf4-82b0a51378ef)
 
+Quick RGB Demo Video:
+
+https://youtu.be/h3FHeYk4HRs
 
 Pre-production Pics:
 

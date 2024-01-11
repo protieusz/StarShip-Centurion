@@ -7,6 +7,14 @@ This keyboard is inspired from Le-Chiffre and Orbital.  I never had the chance t
 
 For QMK firmware, use the Ploopy version since it has been tested and works smoothly. The code is cleaner compared to Aki27 Bally's.  I have uploaded the Aki27 but I have not tested it. It does compiles with no issue. Test at your own risk.
 
+Quick Video Demo Use:
+
+https://www.instagram.com/reel/C1-lobTvvmZ/?igsh=d3Zudndwd214cmZk
+
+Quick RGB Demo Video:
+
+https://youtu.be/h3FHeYk4HRs
+
 Final Production Pictures Jan 10, 2024:
 
 ![IMG_0912](https://github.com/protieusz/StarShip-Centurion/assets/118025702/30700de9-0169-48c3-a44c-3e11df5b710a)
@@ -87,10 +95,6 @@ Switch Plate:
 
 ![IMG_0830](https://github.com/protieusz/StarShip-Centurion/assets/118025702/f9853fac-51af-4cea-8495-ee1a83acb2df)
 ![IMG_0829](https://github.com/protieusz/StarShip-Centurion/assets/118025702/10eeefb9-7338-4f4a-8cf4-82b0a51378ef)
-
-Quick RGB Demo Video:
-
-https://youtu.be/h3FHeYk4HRs
 
 Pre-production Pics:
 

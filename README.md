@@ -12,18 +12,18 @@ Collaborated with Philip Lalonde (https://github.com/lalondeph/StarShip-Centurio
 ![IMG_1829](https://github.com/protieusz/StarShip-Centurion/assets/118025702/93310c45-e429-45ec-aed4-6d781dd24270)
 ![IMG_1828](https://github.com/protieusz/StarShip-Centurion/assets/118025702/e0851d3e-6eba-4978-908c-9b11d6e2f0ca)
 
-
+# QMK Firmware
 For QMK firmware, use the Ploopy version since it has been tested and works smoothly. The code is less complicated compared to Aki27 Bally's.  I have uploaded the Aki27 but I have not tested it. It does compiles with no issue. Test at your own risk.
 
-Quick Video Demo Use:
+# Quick Video Demo Use:
 
 https://www.instagram.com/reel/C1-lobTvvmZ/?igsh=d3Zudndwd214cmZk
 
-Quick RGB Demo Video:
+# Quick RGB Demo Video:
 
 https://youtu.be/h3FHeYk4HRs
 
-Final Production Pictures Jan 10, 2024:
+# Final Production Pictures Jan 10, 2024:
 
 ![IMG_0912](https://github.com/protieusz/StarShip-Centurion/assets/118025702/30700de9-0169-48c3-a44c-3e11df5b710a)
 ![IMG_0913](https://github.com/protieusz/StarShip-Centurion/assets/118025702/5aada6da-d433-4c88-b45d-5cfc14bde7d9)
